@@ -20,7 +20,7 @@ author: Santiago Gil
 ###############################################
 
 navbar-links:
-  About Me: 
+  About Me : 
   - Overview: "overview"
   - Background: "background"
   Research: "research"
